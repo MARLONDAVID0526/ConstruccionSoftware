@@ -1,4 +1,4 @@
-package SegregacionInterfaz;
+package SegregacionInterfaz.fix;
 
 // ❌ Interfaz demasiado grande (contiene métodos innecesarios para algunos dispositivos)
 public interface DispositivoIncorrecto {

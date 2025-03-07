@@ -1,4 +1,4 @@
-package SegregacionInterfaz;
+package SegregacionInterfaz.codesmell;
 
 public interface Dispositivo {
     void encender();

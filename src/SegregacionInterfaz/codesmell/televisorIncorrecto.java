@@ -1,4 +1,5 @@
-package SegregacionInterfaz;
+package SegregacionInterfaz.codesmell;
+
 // 📺 Televisor: Obligado a implementar métodos que no usa
 class televisorIncorrecto implements DispositivoIncorrecto {
     @Override

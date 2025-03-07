@@ -1,4 +1,4 @@
-package SegregacionInterfaz;
+package SegregacionInterfaz.fix;
 
 class Televisor implements Dispositivo, ReproductorSonido, ConectividadInternet {
     @Override
