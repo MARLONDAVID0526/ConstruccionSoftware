@@ -1,4 +1,4 @@
-Readme Fachada
+Readme ISP
 ===============
 
 Este proyecto ejemplifica el Principio de Segregación de Interfaz (ISP) a través de dos implementaciones:
